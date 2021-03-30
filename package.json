@@ -2,13 +2,13 @@
   "name": "nertivia-api-wrapper",
   "version": "1.0.0",
   "description": "Nertivia API wrapper",
-  "main": "lib/index.js",
+  "main": "lib/Client.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CyberL1/nertivia-api-wrapper.git"
   },
   "keywords": ["nertivia", "api", "wrapper"],
-  "author": "",
+  "author": "Cyber#4993",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CyberL1/nertivia-api-wrapper/issues"
