@@ -4,9 +4,9 @@ A library for working with Nertivia API
 ## Token
 
 To get user token:
-1. Open inspect element (`ctrl shift + i`)
+1. Open devtools (`ctrl shift + i`)
 2. Go to the `Console` tab
-3. type in `localStorage.getItem("hauthid")`
+3. type `localStorage.getItem("hauthid")`
 
 To get bot token
 1. Go to `Settings`
