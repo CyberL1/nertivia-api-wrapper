@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/CyberL1/nertivia-api-wrapper/issues"
   },
-  "homepage": "https://github.com/CyberL1/nertivia-api-wrapper#readme"
+  "homepage": "https://github.com/CyberL1/nertivia-api-wrapper#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
