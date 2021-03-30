@@ -23,6 +23,7 @@ To get bot token
 const nertiviaAPI = require("nertivia-api-wrapper");
 const client = new nertiviaAPI("token");
 
-client.user.get().then(res => res.json()).then(console.log);```
+client.user.get().then(res => res.json()).then(console.log);
+```
 
 You'll find more usage examples is the `tests` folder
