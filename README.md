@@ -8,7 +8,7 @@ To get user token:
 2. Go to the `Console` tab
 3. Type `localStorage.getItem("hauthid")`
 
-To get bot token
+To get bot token:
 1. Go to `Settings`
 2. Go to `Manage Bots` tab
 3. Click on bot of your choice
