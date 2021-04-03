@@ -26,4 +26,5 @@ const client = new nertiviaAPI("token");
 client.user.get().then(res => res.json()).then(console.log);
 ```
 
-You'll find more usage examples is the `tests` folder
+You'll find more usage examples in the `tests` folder
+
