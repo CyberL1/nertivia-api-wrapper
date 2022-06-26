@@ -1,6 +1,6 @@
 {
   "name": "nertivia-api-wrapper",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Nertivia API wrapper",
   "main": "lib/Client.js",
   "types": "lib/Client.js",
