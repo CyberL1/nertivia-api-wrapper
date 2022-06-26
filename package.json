@@ -3,6 +3,7 @@
   "version": "1.0.5",
   "description": "Nertivia API wrapper",
   "main": "lib/Client.js",
+  "types": "lib/Client.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CyberL1/nertivia-api-wrapper.git"
